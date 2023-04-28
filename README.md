@@ -36,15 +36,3 @@ $$a+y^3\stackrel{\eqref{evil}=x^2$$
 $\ref{evil}$
 
 
-```math
-  <script>
-  MathJax = {
-    tex: {
-      tags: 'all'  // should be 'ams', 'none', or 'all'
-    }
-  };
-  </script>
-  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
-```
-
-
